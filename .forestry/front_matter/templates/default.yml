@@ -10,3 +10,5 @@ fields:
   config:
     required: true
   default: Sarah Kershner
+pages:
+- _posts/test.md
