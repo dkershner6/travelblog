@@ -5,7 +5,7 @@ google_analytics: UA-10014066-3
 
 github:
   owner-name: Derek Kershner
-  is-project-page: false
+  is_project_page: false
 
 paginate: 5
 
