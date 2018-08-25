@@ -4,6 +4,13 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
+  name: layout
+  label: Layout
+  config:
+    required: true
+  default: post
+  hidden: true
+- type: text
   name: author
   label: Author
   description: Who is writing this?
