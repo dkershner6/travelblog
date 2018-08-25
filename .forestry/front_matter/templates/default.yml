@@ -17,3 +17,15 @@ fields:
   config:
     required: true
   default: Sarah Kershner
+- type: text
+  name: location
+  label: Location
+  description: Where are you? (The city or landmark)
+  config:
+    required: true
+- type: text
+  name: country
+  label: Country
+  description: Which country are you in?
+  config:
+    required: true
