@@ -1,10 +1,11 @@
 title: Derek & Sarah Kershner's Travels
 description: Follow the travel adventures of Derek & Sarah Kershner
 show_downloads: false
-google_analytics:
+google_analytics: UA-10014066-3
 
 github:
-  is-project-page: false
+  owner-name: Derek Kershner
+  is_project_page: false
 
 paginate: 5
 
