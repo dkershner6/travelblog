@@ -29,3 +29,5 @@ fields:
   description: Which country are you in?
   config:
     required: true
+pages:
+- _posts/welcome.md
