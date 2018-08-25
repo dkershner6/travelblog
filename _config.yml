@@ -4,6 +4,7 @@ show_downloads: false
 google_analytics:
 
 github:
+  owner-name: Derek Kershner
   is-project-page: false
 
 paginate: 5
