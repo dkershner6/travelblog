@@ -1,8 +1,15 @@
 ---
-label: Default
+label: Default Posts
 hide_body: false
 is_partial: false
 fields:
+- type: text
+  name: layout
+  label: Layout
+  config:
+    required: true
+  default: post
+  hidden: true
 - type: text
   name: author
   label: Author
@@ -10,3 +17,15 @@ fields:
   config:
     required: true
   default: Sarah Kershner
+- type: text
+  name: location
+  label: Location
+  description: Where are you? (The city or landmark)
+  config:
+    required: true
+- type: text
+  name: country
+  label: Country
+  description: Which country are you in?
+  config:
+    required: true
