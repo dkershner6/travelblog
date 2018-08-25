@@ -30,4 +30,4 @@ fields:
   config:
     required: true
 pages:
-- _posts/welcome.md
+- _posts/2018-08-25-welcome.md
