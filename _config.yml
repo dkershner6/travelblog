@@ -3,6 +3,9 @@ description: Follow the travel adventures of Derek & Sarah Kershner
 show_downloads: false
 google_analytics:
 
+github:
+  is-project-page: false
+
 paginate: 5
 
 theme: jekyll-theme-cayman
